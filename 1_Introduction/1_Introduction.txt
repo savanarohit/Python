@@ -1,0 +1,16 @@
+## What is Python Programming Language
+
+Python is a high-level, interpreted programming language that was created by Guido van Rossum and first released in 1991. It is known for its simplicity and readability, making it a popular choice among beginners and experienced developers alike.
+
+# Here are some key features of the Python programming language:
+
+1. Easy to Read and Write: Python emphasizes code readability with its clean and straightforward syntax, using indentation and a concise structure. This makes it easier to understand and maintain Python code.
+
+2. Interpreted Language: Python is an interpreted language, which means that the code is executed line by line without the need for compilation. This makes the development process faster and more interactive.
+
+3. Cross-Platform Compatibility: Python is a cross-platform language, meaning it can run on various operating systems like Windows, macOS, and Linux without modifications. This portability allows developers to write code once and run it on different platforms.
+
+4. Large Standard Library: Python comes with a vast standard library that provides a wide range of pre-built modules and functions for tasks such as file I/O, networking, database access, and more. The standard library makes it easier to accomplish common programming tasks without the need for external dependencies.
+
+5. Third-Party Libraries: Python has a rich ecosystem of third-party libraries and frameworks, such as NumPy, Pandas, TensorFlow, Django, Flask, and many others. These libraries extend Python's capabilities for specific domains like data analysis, machine learning, web development, and scientific computing.
+
