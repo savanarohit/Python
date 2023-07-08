@@ -1,8 +1,8 @@
-## What is Python Programming Language
+# What is Python Programming Language
 
 Python is a high-level, interpreted programming language that was created by Guido van Rossum and first released in 1991. It is known for its simplicity and readability, making it a popular choice among beginners and experienced developers alike.
 
-# Here are some key features of the Python programming language:
+## Here are some key features of the Python programming language:
 
 1. Easy to Read and Write: Python emphasizes code readability with its clean and straightforward syntax, using indentation and a concise structure. This makes it easier to understand and maintain Python code.
 
@@ -21,7 +21,6 @@ Python is a high-level, interpreted programming language that was created by Gui
 2. Versatility: Python is a versatile language that can be used for a wide range of applications. Whether you're interested in web development, data analysis, machine learning, scientific computing, automation, or scripting, Python has robust libraries and frameworks to support your goals.
 
 3. Strong Community and Support: Python has a large and active community of developers who contribute to its growth. This means you have access to extensive documentation, tutorials, forums, and online resources, making it easier to find answers to your questions and learn from others.
-
 
 ## Who uses Python ?
 
