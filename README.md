@@ -1,7 +1,5 @@
-# Python Beginner course
-Embark on an exciting journey into the world of programming with our Python Beginner course 
-
-Designed for those with little to no prior coding experience. You'll learn the fundamentals of programming, including variables, data types, loops, conditionals, and functions, all through hands-on exercises and engaging projects.
+# Python Beginner Course
+Embark on an exciting journey into the world of programming with Python for beginner.Designed for those with little to no prior coding experience. You'll learn the fundamentals of programming, including variables, data types, loops, conditionals, and functions, all through hands-on exercises and engaging projects.
 
 1. [Introduction](https://github.com/savanarohit/Python/tree/main/1_Introduction)
 2. [Data Types](https://github.com/savanarohit/Python/tree/main/2_Data_Types) 
