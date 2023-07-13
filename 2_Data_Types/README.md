@@ -1,82 +1,62 @@
 # Python Data Types
 
-## Integers (Numbers)
+### Integers (Numbers - 0 , -1 , -2 )
+Python representation of Integers
 
-1. Integers (0 , -1 , -2 )
-
-## Python representation of Integer
 Type: int
 name: integer
 
-2. Decimal (0.2 , 1.4 )
+### Decimal (0.2 , 1.4 )
+Python representation of Decimal
 
-# Python representation of Decimal
 Type: float
 name: floating point
 
-3. String  ( "hello" )
-
-String is Sequence of characters Below all are characters , when combined it will become a string.
-
+### String ("hello") - String is sequence of characters below all are characters
 "H"     "E"     "L"     "L"     "O"
 
 string = "Hello"
 
-# Python representation of String
+Python representation of String
+
 type: str
 name: String
 
-4. Boolean ( True or False )
+### Boolean (True or False) - Logical Value telling if a condition is True or False
+Python representation of Boolean
 
-Logical Value telling if a condition is True or False
-
-# Python representation of Boolean
 type: bool
 name: boolean
 
+### List ( ["Values"] ) - List is a Ordered Sequence (It can contain any data types integer , string , float etc)
+mylist = [ 1,2,"hello",4.2]
 
-5. List ( ["Values"] )
+Python representation of List
 
-List is a Ordered Sequence (It can contain any data types integer , string , float etc)
-
-How to write a list ?
-
-[ 1,2,"hello",4.2]
-
-# Python representation of List
 type: list
 name: List
 
-6. Dictionary ( {"name:" "rohit" , "age:" "34" } )
+### Dictionary ( {"name:" "rohit" , "age:" "34" } ) - Unordered Sequence of Key & Value Pair Sequence separated by ,
+my_dict = {"name:" "Savana" , "age:" "34"}
 
-Unordered Sequence of Key & Value Pair Sequence separated by ,
+Python representation of Dictionary
 
-{"name:" "Savana" , "age:" "34"}
-
-# Python representation of Dictionary
 type: dict
 name: Dictionary
 
-7. Tuples ( )
-
-Ordered immutable (cannot be changed ) Sequence separated by ,
-
+### Tuples ( ) - Ordered immutable (cannot be changed ) Sequence separated by ,
 (1,2,"hello")
 
-# Python representation of Tuples
+Python representation of Tuples
 type: Tuples
 name: Tuples
 
-8. Sets { 1 , 2 , 3 }
-
-Unordered collection of unique objects Sequence separated by ,
-
+### Sets { 1 , 2 , 3 } - Unordered collection of unique objects Sequence separated by ,
 {}
 
-# Python representation of Sets
+Python representation of Sets
 type: sets
 name: Sets
-
 
 ## Variables
 
