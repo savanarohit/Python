@@ -1,4 +1,4 @@
-# Python Data Types
+## Python Data Types
 
 ### Integers (Numbers - 0 , -1 , -2 )
 Python representation of Integers
@@ -62,22 +62,22 @@ name: Sets
 
 Variable - Variable is a reference to store information
 
-# Rules to assign a Variable in Python
+### Rules to assign a Variable in Python
 
 1. There should be no space between a Variable
 2. We cannot use special symbols in name like #$@ 
 
-# Best practice while assign a name
+### Best practice while assign a name
 
 1. Use lower case only - my_name
 2. You should not use Python Keywords like : list , str , bool etc
 
-# How You should proceed if you get errors while learning python ?
+### How You should proceed if you get errors while learning python ?
 
 1. First try to debug  (Syntax error , Logical error etc)
 2. Google the errors
 
-## BODMAS
+### BODMAS
 
 BODMAS stands for "Brackets, Order, Division and Multiplication, Addition and Subtraction," and it is a rule used in mathematics and programming to determine the sequence of operations when evaluating mathematical expressions.
 
