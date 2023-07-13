@@ -1,4 +1,4 @@
-## Python Data Types
+# Python Data Types
 
 ### Integers (Numbers - 0 , -1 , -2 )
 Python representation of Integers
