@@ -94,31 +94,31 @@ my_var = 10
 1. Use lower case only - my_name
 2. You should not use Python Keywords like : list , str , bool etc
 
-### Troubleshooting errors while learning python
+## Troubleshooting errors while learning python
 
 1. First try to debug  (Syntax error , Logical error etc)
 2. Google the errors
 
-### BODMAS (Brackets, Order, Division and Multiplication, Addition and Subtraction)
+## BODMAS (Brackets, Order, Division and Multiplication, Addition and Subtraction)
 
 BODMAS stands for "Brackets, Order, Division and Multiplication, Addition and Subtraction," and it is a rule used in mathematics and programming to determine the sequence of operations when evaluating mathematical expressions.
 
-Brackets ()                          (Anything within parentheses is evaluated first)
+### Brackets ()                          (Anything within parentheses is evaluated first)
 
 result = (2 + 3) * 4 <br>
 print(result)  # Output: 20
 
-Order **                             (Exponents are evaluated next)
+### Order **                             (Exponents are evaluated next)
 
 result = 2 ** 3 <br>
 print(result)  # Output: 8
 
-Division & Multiplication / & *      (Next but same level of precedence)
+### Division & Multiplication / & *      (Next but same level of precedence)
 
 result = 4 * 2 / 3 <br>
 print(result)  # Output: 2.6666666666666665
 
-Addition & Subtraction  + & -        (Last but same Level of precedence)
+### Addition & Subtraction  + & -        (Last but same Level of precedence)
 
 result = 10 - 3 + 2 <br>
 print(result)  # Output: 9
