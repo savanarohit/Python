@@ -11,7 +11,7 @@ name: integer
 
 ### Decimal (Floating - 0.2 , 1.4 )
 
-my_float = 1.2
+my_float = 1.2 <br>
 print(type(my_float))
 
 Python representation of Decimal
@@ -20,8 +20,8 @@ name: floating point
 
 ### String ("hello") - String is sequence of characters below all are characters
 
-my_string = 'Hello'
-print(my_string)
+my_string = 'Hello' <br>
+print(my_string) <br>
 print(type(my_string))
 
 Python representation of String
@@ -33,9 +33,9 @@ name: String
 my_bool1 = True
 my_bool2 = False
 
-if my_bool1 == my_bool2:
-    print("True")
-else:
+if my_bool1 == my_bool2: <br>
+    print("True") <br>
+else: <br>
     print("False")
 
 Python representation of Boolean
@@ -44,7 +44,7 @@ name: boolean
 
 ### List ( ["Values"] ) - List is a Ordered Sequence (It can contain any data types integer , string , float etc)
 
-mylist = [ 1,2,"hello",4.2]
+mylist = [ 1,2,"hello",4.2] <br>
 print(mylist)
 
 Python representation of List
@@ -53,7 +53,7 @@ name: List
 
 ### Dictionary ( {"name:" "rohit" , "age:" "34" } ) - Unordered Sequence of Key & Value Pair Sequence separated by ,
 
-my_dict = {"name:" "Savana" , "age:" "34"}
+my_dict = {"name:" "Savana" , "age:" "34"} <br>
 print(my_dict)
 
 Python representation of Dictionary
@@ -62,7 +62,7 @@ name: Dictionary
 
 ### Tuples ( ) - Ordered immutable (cannot be changed ) Sequence separated by ,
 
-my_tuple = (1,2,"hello")
+my_tuple = (1,2,"hello") <br>
 print(my_tuple)
 
 Python representation of Tuples
@@ -71,7 +71,7 @@ name: Tuples
 
 ### Sets { 1 , 2 , 3 } - Unordered collection of unique objects Sequence separated by ,
 
-my_set = {1,2,3,1,4}
+my_set = {1,2,3,1,4} <br>
 print(my_set)
 
 Python representation of Sets
@@ -103,22 +103,22 @@ my_var = 10
 
 BODMAS stands for "Brackets, Order, Division and Multiplication, Addition and Subtraction," and it is a rule used in mathematics and programming to determine the sequence of operations when evaluating mathematical expressions.
 
-1. Brackets ()                          (Anything within parentheses is evaluated first)
+Brackets ()                          (Anything within parentheses is evaluated first)
 
 result = (2 + 3) * 4
 print(result)  # Output: 20
 
-2. Order **                             (Exponents are evaluated next)
+Order **                             (Exponents are evaluated next)
 
 result = 2 ** 3
 print(result)  # Output: 8
 
-3. Division & Multiplication / & *      (Next but same level of precedence)
+Division & Multiplication / & *      (Next but same level of precedence)
 
 result = 4 * 2 / 3
 print(result)  # Output: 2.6666666666666665
 
-4. Addition & Subtraction  + & -        (Last but same Level of precedence)
+Addition & Subtraction  + & -        (Last but same Level of precedence)
 
 result = 10 - 3 + 2
 print(result)  # Output: 9
