@@ -24,13 +24,13 @@ my_string = 'Hello' <br>
 print(my_string) <br>
 print(type(my_string))
 
-Python representation of String
-type: str
+Python representation of String <br>
+type: str <br>
 name: String
 
 ### Boolean (True or False) - Logical Value telling if a condition is True or False
 
-my_bool1 = True
+my_bool1 = True <br>
 my_bool2 = False
 
 if my_bool1 == my_bool2: <br>
@@ -38,8 +38,8 @@ if my_bool1 == my_bool2: <br>
 else: <br>
     print("False")
 
-Python representation of Boolean
-type: bool
+Python representation of Boolean <br>
+type: bool <br>
 name: boolean
 
 ### List ( ["Values"] ) - List is a Ordered Sequence (It can contain any data types integer , string , float etc)
@@ -47,8 +47,8 @@ name: boolean
 mylist = [ 1,2,"hello",4.2] <br>
 print(mylist)
 
-Python representation of List
-type: list
+Python representation of List <br>
+type: list <br>
 name: List
 
 ### Dictionary ( {"name:" "rohit" , "age:" "34" } ) - Unordered Sequence of Key & Value Pair Sequence separated by ,
@@ -56,8 +56,8 @@ name: List
 my_dict = {"name:" "Savana" , "age:" "34"} <br>
 print(my_dict)
 
-Python representation of Dictionary
-type: dict
+Python representation of Dictionary <br>
+type: dict <br>
 name: Dictionary
 
 ### Tuples ( ) - Ordered immutable (cannot be changed ) Sequence separated by ,
@@ -65,8 +65,8 @@ name: Dictionary
 my_tuple = (1,2,"hello") <br>
 print(my_tuple)
 
-Python representation of Tuples
-type: Tuples
+Python representation of Tuples <br>
+type: Tuples <br>
 name: Tuples
 
 ### Sets { 1 , 2 , 3 } - Unordered collection of unique objects Sequence separated by ,
@@ -74,8 +74,8 @@ name: Tuples
 my_set = {1,2,3,1,4} <br>
 print(my_set)
 
-Python representation of Sets
-type: sets
+Python representation of Sets <br>
+type: sets <br>
 name: Sets
 
 ## Variables
@@ -105,21 +105,21 @@ BODMAS stands for "Brackets, Order, Division and Multiplication, Addition and Su
 
 Brackets ()                          (Anything within parentheses is evaluated first)
 
-result = (2 + 3) * 4
+result = (2 + 3) * 4 <br>
 print(result)  # Output: 20
 
 Order **                             (Exponents are evaluated next)
 
-result = 2 ** 3
+result = 2 ** 3 <br>
 print(result)  # Output: 8
 
 Division & Multiplication / & *      (Next but same level of precedence)
 
-result = 4 * 2 / 3
+result = 4 * 2 / 3 <br>
 print(result)  # Output: 2.6666666666666665
 
 Addition & Subtraction  + & -        (Last but same Level of precedence)
 
-result = 10 - 3 + 2
+result = 10 - 3 + 2 <br>
 print(result)  # Output: 9
 
