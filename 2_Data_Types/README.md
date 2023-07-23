@@ -86,17 +86,17 @@
 
 10. Rules to assign a variable name
 
-    a. There should be no space between a Variable
+    a. There should be no space between a Variable <br>
     b. We cannot use special symbols in name like #$@ 
 
 11. Best practice while assign a variable name
 
-    a. Use lower case only - my_name
+    a. Use lower case only - my_name <br>
     b. You should not use Python Keywords like : list , str , bool etc
 
 12. Troubleshooting errors while learning python
 
-    a. First try to debug  (Syntax error , Logical error etc)
+    a. First try to debug  (Syntax error , Logical error etc) <br>
     b. Google the errors
 
 13. BODMAS (Brackets, Order, Division and Multiplication, Addition and Subtraction)
