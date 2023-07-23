@@ -1,8 +1,8 @@
-# What is Python Programming Language?
+### What is Python Programming Language?
 
 Python is a high-level, interpreted programming language that was created by Guido van Rossum and first released in 1991. It is known for its simplicity and readability, making it a popular choice among beginners and experienced developers alike.
 
-## Here are some key features of the Python programming language:
+### Here are some key features of the Python programming language:
 
 1. Easy to Read and Write: Python emphasizes code readability with its clean and straightforward syntax, using indentation and a concise structure. This makes it easier to understand and maintain Python code.
 
@@ -14,7 +14,7 @@ Python is a high-level, interpreted programming language that was created by Gui
 
 5. Third-Party Libraries: Python has a rich ecosystem of third-party libraries and frameworks, such as NumPy, Pandas, TensorFlow, Django, Flask, and many others. These libraries extend Python's capabilities for specific domains like data analysis, machine learning, web development, and scientific computing.
 
-## Why Should I learn Python?
+### Why Should I learn Python?
 
 1. Simplicity and Readability: Python has a simple and readable syntax that is easy to understand, making it an ideal language for beginners. It focuses on code clarity and reduces the learning curve, allowing you to quickly grasp programming concepts and write clean code.
 
@@ -22,7 +22,7 @@ Python is a high-level, interpreted programming language that was created by Gui
 
 3. Strong Community and Support: Python has a large and active community of developers who contribute to its growth. This means you have access to extensive documentation, tutorials, forums, and online resources, making it easier to find answers to your questions and learn from others.
 
-## Who uses Python?
+### Who uses Python?
 
 1. Web Development: Popular websites and web applications, such as Instagram, Pinterest, and Reddit, have utilized Python in their development process. Python frameworks like Django and Flask are commonly used for building robust and scalable web applications.
 
@@ -38,7 +38,7 @@ Python is a high-level, interpreted programming language that was created by Gui
 
 7. Education: Python is extensively used in educational institutions as an introductory programming language. Its readable syntax and gentle learning curve make it ideal for teaching programming concepts to beginners.
 
-## How to install Python?
+### How to install Python?
 
 1. Choose the Python Version: Decide which version of Python you want to install. As of my knowledge cutoff in September 2021, the latest stable versions were Python 3.9.x and Python 2.7.x. It is recommended to install Python 3 as Python 2 has reached its end of life. However, please note that the specific versions available may have changed since then.
 
