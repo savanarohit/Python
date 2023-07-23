@@ -16,12 +16,12 @@
 
 8. Let say a school has following grade system.
 
-a. Below 25 - F
-b. 25 to 45 - E
-c. 45 to 50 - D
-d. 50 to 60 - C
-e. 60 to 80 - B
-f. Above 80 - A
+    a. Below 25 - F <br>
+    b. 25 to 45 - E <br>
+    c. 45 to 50 - D <br>
+    d. 50 to 60 - C <br>
+    e. 60 to 80 - B <br>
+    f. Above 80 - A <br>
 
 Now ask user to enter his int(marks) and print his grade accordingly.
 
