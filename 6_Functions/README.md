@@ -1,7 +1,7 @@
 ### Functions
 
 1.  help() function
-2.  Python documentation ( https://docs.python.org/3/ ) 
+2.  Python documentation
 3.  Function arguments
 4.  Function arguments with initial values
 5.  Function arguments with no initial values
@@ -12,4 +12,4 @@
 10. Lambda Function
 11. Filter Function
 12. Nested Function
-13. Function naming rule LEGB (Local , Enclosing , Global and Builtin)
+13. Function Scope (Local , Enclosing , Global and Builtin)
