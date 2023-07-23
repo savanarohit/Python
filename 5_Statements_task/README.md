@@ -23,6 +23,6 @@
     e. 60 to 80 - B <br>
     f. Above 80 - A <br>
 
-Now ask user to enter his int(marks) and print his grade accordingly.
+    Now ask user to enter his int(marks) and print his grade accordingly.
 
 9. Student won’t be allowed to sit in exam if his/her attendance is less than 75%. Ask student to give no of class he has attended then print if he is eligible to sit in exam or not.Total number of classes are 50 .If student enter attended class more than 50 then print you are lying.
